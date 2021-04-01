@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="129.32162mm"
+   height="107.37066mm"
+   viewBox="0 0 129.32162 107.37066"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="DeltaSisterSunset.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="99.539519"
+     inkscape:cy="68.830083"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="996"
+     inkscape:window-x="1920"
+     inkscape:window-y="1080"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     fit-margin-bottom="10"
+     fit-margin-top="10"
+     fit-margin-right="10"
+     fit-margin-left="10" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(317.28024,39.111611)">
+    <image
+       sodipodi:absref="/home/deus/Bilder/Shirts/Sticker die auf Angebote warten/StarTrek/sisters-6053044.jpg"
+       xlink:href="sisters-6053044.jpg"
+       y="-26.242588"
+       x="-250.82875"
+       id="image843"
+       preserveAspectRatio="none"
+       height="78.300163"
+       width="40.228886" />
+    <path
+       id="rect866"
+       style="fill:#00ff00;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -261.63142,-27.611611 V 56.75905 h 62.17281 v -84.370661 z m 30.21584,8.345024 h 6e-5 c 11.24768,14.0688994 19.75176,41.593742 20.66986,62.853253 -7.04308,-15.26262 -11.39342,-21.317477 -15.19812,-20.558623 -5.70141,1.137696 -21.68345,20.703522 -26.70409,25.62075 0.82408,-24.510809 6.01696,-46.1629219 21.23229,-67.91538 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.5875px;line-height:1.25;font-family:STIXSizeFiveSym;-inkscape-font-specification:STIXSizeFiveSym;stroke-width:0.159097"
+       id="text872"><textPath
+         xlink:href="#path881"
+         id="textPath883"
+         style="font-size:1.5875px">https://pixabay.com/photos/6053044/ https://de.wikipedia.org/wiki/Datei:Delta-shield.svg</textPath></text>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.029161px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -252.64787,48.648793 c 0.77685,-15.551681 2.6158,-41.9264574 21.23235,-67.91538"
+       id="path881"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.118458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect886"
+       width="46.693436"
+       height="72.108627"
+       x="-255.38789"
+       y="-21.392353" />
+    <path
+       style="color:#000000;stroke-width:0.264583;enable-background:accumulate"
+       d="m -293.96041,9.3827255 c -9.41782,13.3994185 -12.80974,26.2927915 -13.31983,41.3913105 3.10764,-3.028743 13.00006,-15.081445 16.52909,-15.782035 2.35497,-0.467614 4.4259,2.373783 9.31829,11.686963 -1.1899,-13.09596 -6.63143,-28.718748 -12.52755,-37.296249 z"
+       sodipodi:nodetypes="ccscc"
+       inkscape:connector-curvature="0"
+       fill="#ffb634"
+       id="path842" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.5875px;line-height:1.25;font-family:STIXSizeFiveSym;-inkscape-font-specification:STIXSizeFiveSym;stroke-width:0.159097"
+       id="text857"
+       x="-31.367632"
+       y="214.54974"
+       transform="rotate(77.866214)">© cc-by Deus Figendi 2021</text>
+  </g>
+</svg>

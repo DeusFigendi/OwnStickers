@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2423.0701mm"
+   height="387.37875mm"
+   viewBox="0 0 2423.0701 387.37875"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Zeichnung.svg">
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter1374">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1364" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1366" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.3"
+         result="blur"
+         id="feGaussianBlur1368" />
+      <feOffset
+         dx="1.2"
+         dy="-1.2"
+         result="offset"
+         id="feOffset1370" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1372" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="7775.1053"
+     inkscape:cy="471.73441"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="1080"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     fit-margin-top="10"
+     fit-margin-bottom="10"
+     fit-margin-right="10"
+     fit-margin-left="10" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(323.56859,137.17686)">
+    <rect
+       style="opacity:1;fill:#decd87;fill-opacity:1;stroke:#000000;stroke-width:2.165;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect916"
+       width="284.2381"
+       height="123.97619"
+       x="-300.86905"
+       y="60.386906"
+       inkscape:export-xdpi="300.03281"
+       inkscape:export-ydpi="300.03281" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.9978;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815"
+       width="195"
+       height="95"
+       x="1543.8247"
+       y="-67.054993" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.018px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.361611"
+       x="1736.9939"
+       y="2.6932769"
+       id="text819"><tspan
+         sodipodi:role="line"
+         x="1736.9939"
+         y="2.6932769"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:end;text-anchor:end;stroke-width:0.361611"
+         id="tspan842">…WIRKT NICHT ÜBER DEN</tspan><tspan
+         sodipodi:role="line"
+         x="1736.9939"
+         y="20.597366"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:end;text-anchor:end;stroke-width:0.361611"
+         id="tspan844">PLACEBO- EFFEKT HINAUS</tspan></text>
+    <text
+       id="text856"
+       y="41.996922"
+       x="-1545.4774"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.018px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.361611"
+       xml:space="preserve"
+       transform="scale(-1)"><tspan
+         id="tspan852"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:end;text-anchor:end;stroke-width:0.361611"
+         y="41.996922"
+         x="-1545.4774"
+         sodipodi:role="line">…WIRKT NICHT ÜBER DEN</tspan><tspan
+         id="tspan854"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:end;text-anchor:end;stroke-width:0.361611"
+         y="59.901009"
+         x="-1545.4774"
+         sodipodi:role="line">PLACEBO- EFFEKT HINAUS</tspan></text>
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.55072;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -476.22852,545.01953 -671.52344,727.91406 V 904.07422 H 65.484375 V 545.01953 Z"
+       transform="scale(0.26458333)"
+       id="rect858"
+       inkscape:export-xdpi="300.03281"
+       inkscape:export-ydpi="300.03281" />
+    <text
+       id="text864"
+       y="161.66826"
+       x="8.4194679"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.8495px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.495821"
+       xml:space="preserve"
+       inkscape:export-xdpi="300.03281"
+       inkscape:export-ydpi="300.03281"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:end;text-anchor:end;stroke-width:0.495821"
+         y="161.66826"
+         x="8.4194632"
+         sodipodi:role="line"
+         id="tspan874"
+         dy="0">…WIRKT NICHT</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:end;text-anchor:end;stroke-width:0.495821"
+         y="186.21727"
+         x="8.4194698"
+         sodipodi:role="line"
+         id="tspan902">ÜBER DEN</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:end;text-anchor:end;stroke-width:0.495821"
+         y="210.76628"
+         x="8.4194689"
+         sodipodi:role="line"
+         id="tspan882">PLACEBO-EFFEKT</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:end;text-anchor:end;stroke-width:0.495821"
+         y="235.31529"
+         x="8.4194708"
+         sodipodi:role="line"
+         id="tspan904">HINAUS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.6px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.461111;filter:url(#filter1374)"
+       x="-287.21945"
+       y="92.094894"
+       id="text908"
+       inkscape:export-xdpi="300.03281"
+       inkscape:export-ydpi="300.03281"><tspan
+         sodipodi:role="line"
+         id="tspan906"
+         x="-287.21945"
+         y="92.094894"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';stroke-width:0.461111">DR. MARTINA MUSTERMANN</tspan><tspan
+         sodipodi:role="line"
+         x="-287.21945"
+         y="114.92543"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';stroke-width:0.461111"
+         id="tspan910">FACHÄRZTIN FÜR SPORT-,</tspan><tspan
+         sodipodi:role="line"
+         x="-287.21945"
+         y="137.75597"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';stroke-width:0.461111"
+         id="tspan912">ALLGEMEINMEDIZIN UND</tspan><tspan
+         sodipodi:role="line"
+         x="-287.21945"
+         y="160.5865"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';stroke-width:0.461111"
+         id="tspan914">HOMÖOPATHIE</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.9978;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1414"
+       width="195"
+       height="95"
+       x="146.59409"
+       y="-126.17796"
+       inkscape:export-xdpi="300.03281"
+       inkscape:export-ydpi="300.03281" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.8495px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.495821"
+       x="332.68729"
+       y="-108.71269"
+       id="text1424"
+       inkscape:export-xdpi="300.03281"
+       inkscape:export-ydpi="300.03281"><tspan
+         dy="0"
+         id="tspan1416"
+         sodipodi:role="line"
+         x="332.68729"
+         y="-108.71269"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:end;text-anchor:end;stroke-width:0.495821">…WIRKT NICHT</tspan><tspan
+         id="tspan1418"
+         sodipodi:role="line"
+         x="332.68729"
+         y="-84.163681"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:end;text-anchor:end;stroke-width:0.495821">ÜBER DEN</tspan><tspan
+         id="tspan1420"
+         sodipodi:role="line"
+         x="332.68729"
+         y="-59.614666"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:end;text-anchor:end;stroke-width:0.495821">PLACEBO-EFFEKT</tspan><tspan
+         id="tspan1422"
+         sodipodi:role="line"
+         x="332.68729"
+         y="-35.065651"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:end;text-anchor:end;stroke-width:0.495821">HINAUS</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.9978;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -126.3446,144.203 H 17.326233 v 95 H -177.67377 v -45.7875"
+       id="rect1428"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="300.03281"
+       inkscape:export-ydpi="300.03281" />
+    <rect
+       inkscape:export-ydpi="300.03281"
+       inkscape:export-xdpi="300.03281"
+       y="-120.83257"
+       x="404.77646"
+       height="95"
+       width="195"
+       id="rect1432"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.9978;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="300.03281"
+       inkscape:export-xdpi="300.03281"
+       id="text1442"
+       y="-92.512299"
+       x="407.13867"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.6301px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.461946"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:start;text-anchor:start;stroke-width:0.461946"
+         y="-92.512299"
+         x="407.13867"
+         sodipodi:role="line"
+         id="tspan1434"
+         dy="0">…WIRKT NICHT</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:start;text-anchor:start;stroke-width:0.461946"
+         y="-69.640366"
+         x="407.13867"
+         sodipodi:role="line"
+         id="tspan1438">ÜBER DEN PLACEBO-</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:start;text-anchor:start;stroke-width:0.461946"
+         y="-46.768436"
+         x="407.13867"
+         sodipodi:role="line"
+         id="tspan1440">EFFEKT HINAUS</tspan></text>
+    <rect
+       y="112.86167"
+       x="1651.9259"
+       height="95"
+       width="195"
+       id="rect1464"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.9978;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text1470"
+       y="156.95207"
+       x="1845.0951"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.018px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.361611"
+       xml:space="preserve"><tspan
+         id="tspan1466"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:end;text-anchor:end;stroke-width:0.361611"
+         y="156.95207"
+         x="1845.0951"
+         sodipodi:role="line">…WIRKT NICHT ÜBER DEN</tspan><tspan
+         id="tspan1468"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:end;text-anchor:end;stroke-width:0.361611"
+         y="174.85616"
+         x="1845.0951"
+         sodipodi:role="line">PLACEBO- EFFEKT HINAUS</tspan></text>
+    <text
+       transform="scale(-1)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.018px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.361611"
+       x="-1789.3516"
+       y="-12.303061"
+       id="text1476"><tspan
+         sodipodi:role="line"
+         x="-1789.3516"
+         y="-12.303061"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:end;text-anchor:end;stroke-width:0.361611"
+         id="tspan1472">…WIRKT NICHT ÜBER DEN</tspan><tspan
+         sodipodi:role="line"
+         x="-1789.3516"
+         y="5.6010284"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:end;text-anchor:end;stroke-width:0.361611"
+         id="tspan1474">PLACEBO- EFFEKT HINAUS</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.37643;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1478"
+       width="189.62357"
+       height="46.373569"
+       x="1899.1897"
+       y="122.48926"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5585px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:Chilanka;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.348847"
+       x="1993.9657"
+       y="141.65105"
+       id="text1484"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="1993.9657"
+         y="141.65105"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:center;text-anchor:middle;stroke-width:0.348847"
+         id="tspan1480">…WIRKT NICHT ÜBER DEN</tspan><tspan
+         sodipodi:role="line"
+         x="1993.9657"
+         y="158.92317"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';text-align:center;text-anchor:middle;stroke-width:0.348847"
+         id="tspan1482">PLACEBOEFFEKT HINAUS.</tspan></text>
+  </g>
+</svg>
